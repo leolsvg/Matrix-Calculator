@@ -52,16 +52,18 @@
 ##  Notes détaillées
 
 ### Jour 1 — 30/09/25
--  **21h → 01h (4h)**
--  **Travail effectué** :
-  - Création d'un repo sur github
-  - Création d'un markdown pour le suivi du projet
-  - Création d’un menu déroulant permettant de choisir la taille de la matrice
-  - Affichage d’une matrice avec input de la taille sélectionnée par l’utilisateur
+-  **21h → 01h (4h)**  
 
--  **Supports utilisés** :
-  - Documentation [Python Tutorial](https://www.pythontutorial.net/tkinter/tkinter-combobox) pour la **Combobox**
-  - Documentation [Python Course](https://python-course.eu/tkinter/entry-widgets-in-tkinter.php) pour les **inputs de matrices**
-  - Guide [Markdown](https://www.markdownguide.org/basic-syntax) pour structurer ce suivi
--  **Commentaires** :
-  - Difficulté à reprendre car mes bases en Python orienté objet étaient très faibles
+ **Travail effectué** :  
+- Création d’un repo GitHub  
+- Création d’un fichier Markdown pour le suivi du projet  
+- Création d’un menu déroulant permettant de choisir la taille de la matrice  
+- Affichage d’une matrice avec input de la taille sélectionnée par l’utilisateur  
+
+ **Supports utilisés** :  
+- [Python Tutorial](https://www.pythontutorial.net/tkinter/tkinter-combobox) → **Combobox**  
+- [Python Course](https://python-course.eu/tkinter/entry-widgets-in-tkinter.php) → **Inputs de matrices**  
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax) → structurer ce suivi  
+
+ **Commentaires** :  
+- Difficulté à reprendre car mes bases en Python orienté objet étaient très faibles
